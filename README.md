@@ -1,4 +1,5 @@
 # Some-Automation-Project
+All the projects are done using Java and Selenium. To learn more about the details of each project, please visit the GitHub link for each project.
 ## Project 1
 Userinterface test on https://userinyerface.com <br>
 Github: https://github.com/Hasibur-R/Automation-Project-1<br>
