@@ -1,0 +1,6 @@
+{ 
+	"browser":"chrome",
+	"url":"https://userinyerface.com/",
+	"explicitWaitTimeInSeconds": 15,
+	"visibleWaits": 5000
+}
