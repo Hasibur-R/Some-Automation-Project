@@ -15,26 +15,33 @@
 </div>
 
  <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#auto-project">About The Automation-Project</a>
-    </li>
-    <li>
-      <a href="#project-1-userinterface">Project 1- Userinterface</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-     <li>
-      <a href="#auto-2">Project 2- REST API (GET/POST) automation</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
+<ol>
+  <li>
+    <a href="#auto-project">About The Automation-Project</a>
+  </li>
+  <li>
+    <a href="#manual">About The Manual Testing Project</a>
+  </li>
+  <li>
+    <a href="#project-1-userinterface">Automation Project 1- Userinterface</a>
+<!--     <ul>
+      <li><a href="#built-with">Built With</a></li>
+    </ul> -->
+  </li>
+  <li>
+    <a href="#auto-2">Automation Project 2- REST API (GET/POST) automation</a>
+<!--     <ul>
+      <li><a href="#built-with">Built With</a></li>
+    </ul> -->
+  </li>
+  <li>
+    <a href="mp-1">Manual Project 1- OpenCart test</a>
+  </li>
+</ol>
+
+
 
 
 <!-- Autmotion PROJECT -->
@@ -55,10 +62,11 @@ REST API (GET/POST) test on https://jsonplaceholder.typicode.com <br><br>
 Details Documentation on Github: https://github.com/Hasibur-R/REST_API-Automation-Testing <br><br>
 <img src="https://cdn.discordapp.com/attachments/1170655156229128232/1179506285570445335/BeFunky-collage.jpg?ex=657a07d4&is=656792d4&hm=4fd982815f9b60c096bbf4dba17f1a4ac096575a7db28d25d3a37a1477010ff4&" height="350"><br><br>
 
-# Manual-Testing-Project
+<h2 id="manual"> Manual-Testing-Project</h2>
 All the projects involve manual creation of test cases and scenarios. To learn more about the details of each project, please visit the GitHub link provided for each project.
-## Project 1- Facebook Login test
-## Project 2- Orange HRM
+<h2 id="mp-1"> Project 1- OpenCart test</h2>
+<h2> Project 2- Facebook Login test</h2>
+<h2> Project 3- Orange HRM</h2>
 
 
 
